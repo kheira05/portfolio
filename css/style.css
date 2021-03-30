@@ -512,6 +512,12 @@ about section
 	max-width:50%;
 	padding: 0 15%;
 }
+.about-section .skills .skill-item p{
+	font-size: 16px;
+	color: var(--text-black-600);
+	text-transform: capitalize;
+	margin: 0 0 10px;
+}
 .about-section .skills .skill-item .progress{
 	height: 20px;
 	border-radius: 10px;
